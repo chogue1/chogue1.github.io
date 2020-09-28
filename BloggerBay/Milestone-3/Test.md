@@ -11,7 +11,7 @@
 
 * File: Milestone-3/Test.md
 
-* URL: https://github.com/chogue1/chogue1.github.io/blob/master/BloggerBay/Milestone-3/Test.md
+* URL: https://github.com/chogue1/chogue1.github.io/blob/master/BloggerBay /Milestone-3/Test.md
 
 * Documents: Documents/swplan/BookBuilder
 
