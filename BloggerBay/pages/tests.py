@@ -6,7 +6,7 @@ from django.contrib.auth import get_user_model
 class ViewTests(SimpleTestCase):
 
 	def test_view_index(self):
-		response = self.client.get("/")
+		response = self.client.get('/')
 		set.assertEqual(response,)
 
 	def check_template(self, page, template):
