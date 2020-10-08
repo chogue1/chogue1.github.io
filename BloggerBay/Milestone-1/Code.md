@@ -17,6 +17,8 @@
 
 * Git Repo: SethHolland-unco.github.io
 
+* app url: http://bloggerbay.pythonanywhere.com/
+
 Role: Code  
 
 Goal: version control
