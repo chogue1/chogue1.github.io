@@ -17,7 +17,7 @@
 
 * Git Repo: SethHolland-unco.github.io
 
-* app url: http://bloggerbay.pythonanywhere.com/
+* app server url: http://bloggerbay.pythonanywhere.com/
 
 Role: Code  
 
@@ -38,9 +38,6 @@ the project development cycle: wiki, issues, project kanban, and instant message
 Github is at the heart of every aspect of the Blogger bay project.  If it is not at Github
 then it does not truly exist.
 
-### Publishing Project Docs
-
-Project docs will be published via Github through the use of Markdown. 
 
 ### WorkFlow guide
 
@@ -53,3 +50,11 @@ Rapid Prototyping
 2. Feedback: The creators share the prototype with other team members, stakeholders, and focus groups made up the intended end-users. Everyone evaluates both the design and usability before submitting feedback.
 
 3. Improvement: The feedback is used to create a new iteration of the prototype. The process then cycles round to Step 2 for further feedback. This continues until there are no more changes or a specified cut-off is reached (either a date or number of iterations).
+
+### Github account
+
+We all have our own GitHub accounts that we will use to store and push code after it has been tested
+
+### Publishing Project Docs
+ 
+ project docs will be posted through the team repository created by christian, everyone in the group has access to this repository
